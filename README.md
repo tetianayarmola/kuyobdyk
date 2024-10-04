@@ -1,2 +1,3 @@
-# kuyobdyk
-Kuyobdyk
+# Kuyobdyk
+
+a board game - in development.
